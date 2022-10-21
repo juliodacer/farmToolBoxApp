@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/UPeU_Emp/FarmToolBox/app/src/main/res/drawable/bg_splash.xml" value="0.1" />
-        <entry key="..\:/UPeU_Emp/FarmToolBox/app/src/main/res/layout/activity_login.xml" value="0.10925925925925926" />
-        <entry key="..\:/UPeU_Emp/FarmToolBox/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/UPeU_Emp/FarmToolBox/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15" />
+        <entry key="..\:/UPeU_Emp/FarmToolBox/app/src/main/res/drawable/round_back_dark_blue_input_text.xml" value="0.1" />
+        <entry key="..\:/UPeU_Emp/FarmToolBox/app/src/main/res/drawable/round_back_primary_button.xml" value="0.1" />
+        <entry key="..\:/UPeU_Emp/FarmToolBox/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/UPeU_Emp/FarmToolBox/app/src/main/res/layout/activity_splash.xml" value="0.2" />
       </map>
     </option>
   </component>

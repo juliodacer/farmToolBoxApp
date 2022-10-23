@@ -18,7 +18,6 @@ public class RegisterActivity extends AppCompatActivity {
     private ImageView ivPasswordIcon, ivConfirmPasswordIcon;
     private AppCompatButton registerBtn;
     private TextView goToSignInBtn;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -88,6 +87,5 @@ public class RegisterActivity extends AppCompatActivity {
                 finish();
             }
         });
-
     }
 }

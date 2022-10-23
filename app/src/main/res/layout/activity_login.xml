@@ -31,7 +31,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="40dp"
         android:layout_marginEnd="20dp"
-        android:background="@drawable/round_back_dark_blue_input_text"
+        android:background="@drawable/round_input_text"
         android:hint="Email"
         android:inputType="textEmailAddress"
         android:maxLines="1"
@@ -45,13 +45,13 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="20dp"
-        android:background="@drawable/round_back_dark_blue_input_text">
+        android:background="@drawable/round_input_text">
 
         <EditText
             android:id="@+id/et_passwordLogin"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_toStartOf="@+id/iv_passwordVisibility"
+            android:layout_toStartOf="@+id/iv_passwordShow"
             android:background="@android:color/transparent"
             android:hint="Contraseña"
             android:inputType="textPassword"
@@ -61,7 +61,7 @@
             android:textSize="16sp" />
 
         <ImageView
-            android:id="@+id/iv_passwordVisibility"
+            android:id="@+id/iv_passwordShow"
             android:layout_width="40dp"
             android:layout_height="40dp"
             android:layout_alignParentEnd="true"
@@ -69,7 +69,7 @@
             android:layout_marginEnd="20dp"
             android:adjustViewBounds="true"
             android:padding="10dp"
-            android:src="@drawable/ic_baseline_visibility_24" />
+            android:src="@drawable/ic_password_hide" />
     </RelativeLayout>
 
     <TextView
@@ -89,7 +89,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="40dp"
         android:layout_marginEnd="20dp"
-        android:background="@drawable/round_back_primary_button"
+        android:background="@drawable/round_primary_button"
         android:text="Iniciar Sesión"
         android:textAllCaps="false"
         android:textColor="#FFFFFF" />
@@ -138,7 +138,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="20dp"
-        android:background="@drawable/round_back_dark_blue_input_text">
+        android:background="@drawable/round_input_text">
 
         <ImageView
             android:layout_width="20dp"
@@ -146,7 +146,7 @@
             android:layout_centerVertical="true"
             android:layout_marginStart="20dp"
             android:adjustViewBounds="true"
-            android:src="@drawable/ic_icon_google" />
+            android:src="@drawable/ic_google" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -171,7 +171,7 @@
             android:text="¿No tienes una cuenta?" />
 
         <TextView
-            android:id="@+id/btn_signUp"
+            android:id="@+id/btn_goToSignUp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782888204096",
+    "project_id": "farmtoolbox-22686",
+    "storage_bucket": "farmtoolbox-22686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782888204096:android:200928f1b4306adc4f2ca5",
+        "android_client_info": {
+          "package_name": "com.cydbot.farmtoolbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782888204096-gutt80t6tdb6c1iahh6cks9sgvebp8ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cydbot.farmtoolbox",
+            "certificate_hash": "8f672065ac706b6be464c155712f8f7cf5f42ab8"
+          }
+        },
+        {
+          "client_id": "782888204096-ehpfbbh6fmt4k29lsqjtsigu9e0b7f18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa1cNj9_ohTolGQTuM31PoehbH4sWOZbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782888204096-ehpfbbh6fmt4k29lsqjtsigu9e0b7f18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
